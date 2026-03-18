@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  /* --- FUENTES GLOBALES --- */
+  --font-sans: "Inter", "ui-sans-serif", "system-ui", sans-serif;
+  --font-mono: "JetBrains Mono", "ui-monospace", "SFMono-Regular", monospace;
+
+  /* --- TUS COLORES (APP) --- */
+  --color-app-bg: var(--app-bg);
+  --color-app-fg: var(--app-fg);
+
+  /* BACKGROUNDS */
+  --color-surface: var(--surface);
+  --color-surface-hover: var(--surface-hover);
+  --color-surface-2: var(--surface-2);
+  --color-surface-2-hover: var(--surface-2-hover);
+  --color-surface-3: var(--surface-3);
+  --color-surface-3-hover: var(--surface-3-hover);
+
+  /* BRAND COLORS */
+  --color-primary: var(--primary);
+  --color-primary-hover: var(--primary-hover);
+  --color-secondary: var(--secondary);
+  --color-secondary-hover: var(--secondary-hover);
+  --color-tertiary: var(--tertiary);
+  --color-tertiary-hover: var(--tertiary-hover);
+
+  /* TEXT */
+  --color-fg-muted: var(--fg-muted);
+  --color-fg-subtle: var(--fg-subtle);
+
+  /* BORDERS */
+  --color-border: var(--border);
+  --color-border-strong: var(--border-strong);
+
+  /* STATES */
+  --color-success: var(--success);
+  --color-warning: var(--warning);
+  --color-danger: var(--danger);
+  --color-info: var(--info);
+}
+
+/* ============================= */
+/* LIGHT THEME                   */
+/* ============================= */
+:root {
+  --app-bg: #ffffff;
+  --app-fg: #0f172a;
+  --surface: #f8fafc;
+  --surface-hover: #f1f5f9;
+  --surface-2: #ffffff;
+  --surface-2-hover: #eff6ff;
+  --surface-3: #e2e8f0;
+  --surface-3-hover: #cbd5e1;
+  --primary: #0ea5e9;
+  --primary-hover: #0284c7;
+  --secondary: #2563eb;
+  --secondary-hover: #1d4ed8;
+  --tertiary: #64748b;
+  --tertiary-hover: #475569;
+  --fg-muted: #475569;
+  --fg-subtle: #94a3b8;
+  --border: #e2e8f0;
+  --border-strong: #cbd5e1;
+  --success: #10b981;
+  --warning: #f59e0b;
+  --danger: #ef4444;
+  --info: #3b82f6;
+}
+
+/* ============================= */
+/* DARK THEME (Actualizado)      */
+/* ============================= */
+.dark {
+  --app-bg: #0b1120;
+  --app-fg: #e5e7eb;
+  --surface: #111827;
+  --surface-hover: #1f2937;
+  --surface-2: #1f2937;
+  --surface-2-hover: #273244;
+  --surface-3: #273244;
+  --surface-3-hover: #334155;
+
+  --primary: #7dd3fc;         /* Sky 300 - Un azul celeste suave */
+  --primary-hover: #bae6fd;   /* Sky 200 - Aún más claro al pasar el mouse */
+  
+  --secondary: #a5f3fc;       /* Cyan 200 - Muy claro, casi cristalino */
+  --secondary-hover: #cffafe; /* Cyan 100 */
+  
+  --info: #93c5fd;            /* Blue 300 - Un azul informativo legible */
+
+  --tertiary: #9ca3af;
+  --tertiary-hover: #d1d5db;
+  --fg-muted: #9ca3af;
+  --fg-subtle: #6b7280;
+  --border: #1f2937;
+  --border-strong: #374151;
+  --success: #4ade80;         
+  --warning: #fbbf24;
+  --danger: #f87171;
+}
+
+@layer base {
+  body {
+    @apply font-sans bg-app-bg text-app-fg transition-colors duration-300;
+  }
+
+  .font-mono {
+    font-variant-numeric: tabular-nums;
+  }
+
+  section[id] {
+    scroll-margin-top: 1rem;
+  }
+}

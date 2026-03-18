@@ -1,0 +1,33 @@
+{
+  "title": "Donde el café no se extingue",
+  "subtitle": "Ven a vivir una experiencia mesozoica con sabores gigantes y mucha diversión.",
+  "description": "En la casa del Frappesaurio encontrarás un lugar acogedor para disfrutar café, frappes y bebidas preparadas con cariño.",
+  "cta": {
+    "menu": "Menú",
+    "visit": "Visítanos"
+  },
+  "menu": {
+    "title": "Nuestras bebidas",
+    "subtitle": "Una selección pensada para disfrutar cada momento.",
+    "items": {
+      "frappes": "Frappes",
+      "coffee": "Café",
+      "tea": "Té, tisanas y algo más",
+      "beans": "Granos de café",
+      "fruit": "Frutales",
+      "chocolate": "Chocolatería"
+    },
+    "desc": {
+      "frappes": "Frappes cremosos y refrescantes para cualquier momento.",
+      "coffee": "Café preparado con granos seleccionados y mucho cuidado.",
+      "tea": "Tés y tisanas aromáticas para disfrutar con calma.",
+      "beans": "Granos de café para llevar la experiencia a casa.",
+      "fruit": "Sodas italianas burbujeantes y smoothies llenos de fruta natural.",
+      "chocolate": "Chocolate artesanal, caliente o frío, preparado a la perfección."
+    }
+  },
+  "experience": {
+    "title": "Un lugar para compartir",
+    "text": "Queremos que cada visita sea especial. Un espacio tranquilo donde puedas disfrutar una buena bebida, conversar y pasar un buen momento."
+  }
+}

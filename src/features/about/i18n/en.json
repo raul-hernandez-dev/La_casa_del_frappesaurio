@@ -1,0 +1,28 @@
+{
+  "title": "About us",
+  "subtitle": "A place where coffee and good moments always exist.",
+  "story": {
+    "title": "Our story",
+    "p1": "The house of the Frappesaurio was created to build a cozy place where people can enjoy a good drink with friends or family.",
+    "p2": "Inspired by the prehistoric world, we offer a fun and unique experience while keeping the warmth of a traditional coffee shop."
+  },
+  "location": {
+    "title": "Where to find us",
+    "subtitle": "Visit us and enjoy a mesozoic coffee experience."
+  },
+  "philosophy": {
+    "title": "Our philosophy",
+    "text": "We believe a good cup of coffee can make the day better. That's why we care about every detail so every visit becomes a moment worth repeating."
+  },
+  "hours": {
+    "title": "Hours",
+    "weekdays": {
+      "label": "Monday to Friday",
+      "time": "10:00 AM - 10:00 PM"
+    },
+    "weekenddays": {
+      "label": "Saturday and Sunday",
+      "time": "01:00 PM - 10:00 PM"
+    }
+  }
+}

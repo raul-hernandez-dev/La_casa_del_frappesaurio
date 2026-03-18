@@ -1,0 +1,22 @@
+{
+  "initial_message": "Inicie sesión o regístrese para continuar.",
+  "welcome": "Bienvenido",
+  "welcome_back": "Bienvenido de nuevo",
+  "loading": "Cargando...",
+  "home": "Inicio",
+  "dashboard": "Panel de control",
+  "dark_mode": "Modo oscuro",
+  "light_mode": "Modo claro",
+  "error_generic": "Ha ocurrido un error inesperado",
+  "submit": "Enviar",
+  "cancel": "Cancelar",
+  "about": "Sobre Nosotros",
+  "contact": "Contacto",
+  "menu": "Menú",
+  "footer": {
+    "description": "Donde el café no se extingue. Ven a vivir una experiencia mesozoica con sabores gigantes y mucha diversión.",
+    "explore": "Explora",
+    "legal": "La Casa del Frappesaurio.",
+    "social": "Redes Sociales"
+  }
+}

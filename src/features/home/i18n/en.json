@@ -1,0 +1,33 @@
+{
+  "title": "Where coffee never goes extinct",
+  "subtitle": "Come live a Mesozoic experience with giant flavors and lots of fun.",
+  "description": "At the house of the Frappesaurio you'll find a cozy place to enjoy coffee, frappes, and drinks made with care.",
+  "cta": {
+    "menu": "Menu",
+    "visit": "Visit us"
+  },
+  "menu": {
+    "title": "Our drinks",
+    "subtitle": "A selection designed to enjoy every moment.",
+    "items": {
+      "frappes": "Frappes",
+      "coffee": "Coffee",
+      "tea": "Tea, herbal teas, and more",
+      "beans": "Coffee beans",
+      "fruit": "Fruit trees",
+      "chocolate": "Chocolate shop"
+    },
+    "desc": {
+      "frappes": "Creamy and refreshing frappes for any time of the day.",
+      "coffee": "Coffee prepared with carefully selected beans.",
+      "tea": "Aromatic teas and herbal infusions to enjoy slowly.",
+      "beans": "Coffee beans to take the experience home.",
+      "fruit": "Bubbly Italian sodas and smoothies made with real fruit.",
+      "chocolate": "Handcrafted chocolate, hot or cold, prepared to perfection."
+    }
+  },
+  "experience": {
+    "title": "A place to share",
+    "text": "We want every visit to feel special. A cozy space where you can enjoy a good drink, talk with friends, and relax."
+  }
+}

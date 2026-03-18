@@ -1,0 +1,23 @@
+{
+  "initial_message": "Please login or register to continue",
+  "welcome": "Welcome",
+  "welcome_back": "Welcome back",
+  "loading": "Loading...",
+  "home": "Home",
+  "dashboard": "Dashboard",
+  "dark_mode": "Dark Mode",
+  "light_mode": "Light Mode",
+  "error_generic": "An unexpected error has occurred",
+  "submit": "Submit",
+  "cancel": "Cancel",
+  "description": "",
+  "about": "About",
+  "contact": "Contact",
+  "menu": "Menu",
+"footer": {
+    "description": "Where coffee never goes out of style. Come experience the Mesozoic era with giant flavors and lots of fun.",
+    "explore": "Explore",
+    "legal": "The Frappesaurio House.",
+    "social": "Social media"
+  }
+}

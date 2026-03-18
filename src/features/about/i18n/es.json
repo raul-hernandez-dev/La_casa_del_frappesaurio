@@ -1,0 +1,25 @@
+{
+  "title": "Sobre nosotros",
+  "subtitle": "Un lugar donde el café y los buenos momentos siempre están presentes.",
+
+  "story": {
+    "title": "Nuestra historia",
+    "p1": "La casa del Frappesaurio nació con la idea de crear un espacio acogedor donde las personas puedan disfrutar una buena bebida en compañía de amigos o familia.",
+    "p2": "Inspirados en el mundo prehistórico, buscamos ofrecer una experiencia diferente y divertida, sin perder la calidez de una cafetería tradicional."
+  },
+
+  "location": {
+    "title": "Dónde encontrarnos",
+    "subtitle": "Visítanos y disfruta una experiencia mesozoica con un buen café."
+  },
+
+  "philosophy": {
+    "title": "Nuestra filosofía",
+    "text": "Creemos que una buena taza de café puede hacer el día mejor. Por eso cuidamos cada detalle para que cada visita sea un momento agradable que quieras repetir."
+  },
+  "hours":{
+    "title":"Horario",
+    "weekdays": {"label":"Lunes a viernes: ","time":"10:00 AM - 10:00 PM"},
+    "weekenddays": {"label":"Sabado y Domingo: ","time":"01:00 PM - 10:00 PM"}    
+  }
+}

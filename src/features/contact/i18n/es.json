@@ -1,0 +1,17 @@
+{
+  "title": "Contacto",
+  "subtitle": "¿Tienes alguna pregunta o quieres saber más sobre nuestras bebidas? Estamos para ayudarte.",
+  "facebook": "Síguenos para ver novedades y promociones.",
+  "instagram": "Descubre nuestras bebidas y momentos especiales.",
+  "whatsapp": "Escríbenos directamente para cualquier consulta.",
+  "email": "Envíanos un correo y te responderemos pronto.",
+  "cta": {
+    "title": "¿Prefieres escribirnos por WhatsApp?",
+    "subtitle": "Estamos disponibles para responder tus dudas o tomar pedidos.",
+    "button": "Enviar mensaje"
+  },
+  "hours": {
+    "title": "Atención directa",
+    "time": "Lunes a Viernes 10:00 AM - 01:00 pm"
+  }
+}

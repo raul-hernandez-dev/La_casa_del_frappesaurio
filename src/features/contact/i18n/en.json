@@ -1,0 +1,19 @@
+{
+  "title": "Contact",
+  "subtitle": "Have a question or want to know more about our drinks? We're here to help.",
+
+  "facebook": "Follow us for news and promotions.",
+  "instagram": "Discover our drinks and special moments.",
+  "whatsapp": "Message us directly for any questions.",
+  "email": "Send us an email and we'll reply soon.",
+
+  "cta": {
+    "title": "Prefer to message us on WhatsApp?",
+    "subtitle": "We're available to answer your questions or take orders.",
+    "button": "Send message"
+  },
+  "hours": {
+  "title": "Direct Support",
+  "time": "Monday to Friday 10:00 AM - 01:00 PM"
+}
+}
